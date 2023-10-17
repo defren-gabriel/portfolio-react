@@ -1,0 +1,27 @@
+.contato {
+    max-width: 600px;
+    margin: auto;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+textarea {
+    width: 100%;
+}
+
+.sem-margem {
+    margin: 0;
+}
+
+.espaco-final1 {
+    margin-bottom: 12px;
+}
+
+.espaco-final2 {
+    margin-bottom: 25px;
+}

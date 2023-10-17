@@ -1,0 +1,18 @@
+.cont-sec {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    justify-content: flex-start;
+    align-items: center;
+
+    gap: 10px;
+}
+
+button {
+    font-size: 1em;
+}
+
+.alerta {
+    color: red;
+}

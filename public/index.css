@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1080px;
+    margin: auto;
+}
+
+.titulo {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: black;
+}
+
+.texto {
+    font-family: 'Cabin Condensed', sans-serif;
+    color: black;
+
+    text-align: justify;
+}
+
+.button {
+    padding: 8px;
+    
+    background-color: #00337c;
+    color: white;
+    border-radius: 7px;
+}
